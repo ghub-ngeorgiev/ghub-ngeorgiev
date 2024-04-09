@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-I am currently studying at SoftUni. I am part of the professional QA engineering program.
+I am currently studying in SoftUni. I am part of the professional QA engineering program.
 
 The program is comprised of:
  1. Manual QA (passed)
